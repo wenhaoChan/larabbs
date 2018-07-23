@@ -64,6 +64,11 @@ return array(
             'roles',
             'permission',
         ],
+        '内容管理'  => [
+            'categories',
+            'topics',
+            'replies',
+        ],
     ],
 
     /*
